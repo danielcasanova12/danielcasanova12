@@ -1,4 +1,5 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+[<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">](https://img.shields.io/badge/https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.5a209eb8f2a48560b0cc598951cd66d2%3Frik%3D%252f%252fq97QiUmhsXQw%26riu%3Dhttp%253a%252f%252fi.mlcdn.com.br%252f1500x1500%252fcomputador-pc-pc-mix-l3900-com-intel-core-i74gb-1tb-led-18-5-grava-dvd-208290200.jpg%26ehk%3DIcM%252fNnVP8plRpOdH2FM9rwIzhBOUr7rs8AmOa5RvZC8%253d%26risl%3D%26pid%3DImgRaw%26r%3D0
+)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Brazilian developer passionate about the backend</h3>
 
