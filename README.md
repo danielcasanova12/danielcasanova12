@@ -1,3 +1,4 @@
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Brazilian developer passionate about the backend</h3>
 
