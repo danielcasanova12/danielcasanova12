@@ -2,7 +2,7 @@
 <h3 align="center">Brazilian computer science student, backend lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcasanova12&label=Profile%20views&color=0e75b6&style=flat" alt="danielcasanova12" /> </p>
-## What I do?
+<h1>What I do?</h1>
 - 🌱 I’m currently learning **C#,Python**
 
 <h3 align="left">Connect with me:</h3>
