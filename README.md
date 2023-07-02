@@ -15,7 +15,6 @@
 
 🌐 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
-- 🌱 I’m currently learning **C#,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +23,8 @@
 <a href="https://www.youtube.com/channel/UC5P_yLvKbq2nRpUr5gs_arQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc5p_ylvkbq2nrpur5gs_arq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠 Skills</h3>
+`Vue.js` `React.js` `Javascript` `Typescript` `SCSS` `CSS3` `Vuex` `Webpack` `Vite.js` `Redux toolkit` `HTML5` `Jquery` `Bootstrap` `Materialize CSS` `Tailwind CSS` `Git` `Vitest`
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcasanova12&show_icons=true&theme=dark&locale=en&layout=compact" alt="danielcasanova12" /></p>
 
