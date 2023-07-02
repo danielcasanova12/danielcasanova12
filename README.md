@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">👋 Hi there, I'm Daniel</h1>
 <h3 align="center">Brazilian computer science student, backend lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcasanova12&label=Profile%20views&color=0e75b6&style=flat" alt="danielcasanova12" /> </p>
-<h1>What I do?</h1>
+👋 Hi there! I'm Daniel, a Brazilian computer science student passionate about technology and software development. I love exploring new ideas and solving complex problems through coding.
+
+🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science, where I've gained a solid foundation in various programming languages, algorithms, data structures, and software development methodologies.
+
+💼 I'm actively seeking employment opportunities to apply my skills and knowledge in a professional setting. I'm eager to collaborate with talented teams, contribute to meaningful projects, and continue learning and growing as a software developer.
+
+💡 My areas of interest include web development, software engineering, and data science. I enjoy building responsive and user-friendly web applications, working with modern frameworks, and leveraging data to derive valuable insights.
+
+🌟 In my free time, I like to explore open-source projects, participate in coding competitions, and stay up-to-date with the latest industry trends and technologies. I believe in the power of continuous learning and strive to improve my skills with each new project.
+
+📫 If you have any exciting job opportunities or would like to connect, feel free to reach out to me through the contact information provided below. I'm open to collaboration, networking, and discussing potential career opportunities.
+
+🌐 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
+
 - 🌱 I’m currently learning **C#,Python**
 
 <h3 align="left">Connect with me:</h3>
