@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcasanova12&label=Profile%20views&color=0e75b6&style=flat" alt="danielcasanova12" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Brazilian+computer+science+student;backend+lover...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Brazilian+computer+science+student;Full+stack+developer;Backend+lover...;)](https://git.io/typing-svg)
 
 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science, where I've gained a solid foundation in various programming languages, algorithms, data structures, and software development methodologies.
 
