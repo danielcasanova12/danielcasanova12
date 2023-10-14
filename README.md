@@ -5,18 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Brazilian+computer+science+student;Full+stack+developer;Backend+lover...;)](https://git.io/typing-svg)
 
-🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science, where I've gained a solid foundation in various programming languages, algorithms, data structures, and software development methodologies.
-
-💼 I'm actively seeking employment opportunities to apply my skills and knowledge in a professional setting. I'm eager to collaborate with talented teams, contribute to meaningful projects, and continue learning and growing as a software developer.
-
-💡 My areas of interest include web development, software engineering, and data science. I enjoy building responsive and user-friendly web applications, working with modern frameworks, and leveraging data to derive valuable insights.
-
-🌟 In my free time, I like to explore open-source projects, participate in coding competitions, and stay up-to-date with the latest industry trends and technologies. I believe in the power of continuous learning and strive to improve my skills with each new project.
-
-📫 If you have any exciting job opportunities or would like to connect, feel free to reach out to me through the contact information provided below. I'm open to collaboration, networking, and discussing potential career opportunities.
-
 🌐 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
