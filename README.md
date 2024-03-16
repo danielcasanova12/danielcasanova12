@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-casanova-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-casanova-b39435232" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_casanovaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_casanovaa_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC5P_yLvKbq2nRpUr5gs_arQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc5p_ylvkbq2nrpur5gs_arq" height="30" width="40" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc5p_ylvkbq2nrpur5gs_arq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
