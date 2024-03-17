@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcasanova12&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=000000" alt="danielcasanova12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcasanova12&show_icons=true&theme=dark&locale=en&bg_color=000000" alt="danielcasanova12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielcasanova12&theme=dark&bg_color=000000" alt="danielcasanova12" /></p>
