@@ -14,7 +14,8 @@
  </div>
  
  &nbsp;
- &nbsp;## My Skills
+ &nbsp;
+ ## My Skills
 
 #### Main Stack:
 
