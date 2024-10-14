@@ -15,6 +15,7 @@
  
  &nbsp;
  &nbsp;
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=danielcasanova12&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 
  ## My Skills
